@@ -20,3 +20,5 @@ def _subset(i, lis, arr, result):
 
 if __name__ == "__main__":
     subset([1,3])
+
+
